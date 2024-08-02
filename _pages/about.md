@@ -6,23 +6,34 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Biography
+About Me
 ===
 
-Dr. Linyan Chen is a Postdoctoral Research Fellow in the Department of Building and Real Estates, The Hong Kong Polytechnic University, under supervision of Prof. Albert Chan. She obtained two Ph.D. degree from The Hong Kong Polytechnic University and Tongji University in 2024, advised by Prof. Albert Chan (PolyU) and Prof. Xin Gao (Tongji). Prior to that, she received the M.S. and the B.S. degrees from Zhengzhou University of Aeronautics. Linyan’s research recently focuses on building energy retrofitting and green buildings, providing solutions to sustainable built environment. 
+I am a Postdoctoral Research Fellow in the Department of Building and Real Estates, The Hong Kong Polytechnic University, under the supervision of Prof. Albert Chan. I obtained two Ph.D. degree from The Hong Kong Polytechnic University and Tongji University in 2024, advised by Prof. Albert Chan (PolyU) and Prof. Xin Gao (Tongji). Prior to that, I received the M.S. and the B.S. degrees from Zhengzhou University of Aeronautics. My recent research focuses on building energy retrofitting and green buildings, providing solutions to sustainable built environment. 
 
 
-Publications
+Main Publications
 ======
-Journal 
----
 
 * Challenges to energy retrofitting of existing office buildings in high-rise high-density cities: The case of Hong Kong. 
 
   **Linyan Chen**, Amos Darko, Mayowa I. Adegoriola, Albert P.C. Chan, Yang Yang, & Mershack O. Tetteh
 
   *Energy and Buildings*, 2024, 312, 114220.
-* 
+  
+  
+* Critical success factors for green building promotion: A systematic review and meta-analysis
+  
+  **Linyan Chen**, Albert P.C. Chan, Emmanuel K. Owusu, Amos Darko, Xin Gao
+  
+  *Building and Environment*, 2022, 207, 108452.
+
+Chen, L., Chan, A. P., Darko, A., & Gao, X. (2022). Spatial-temporal investigation of green building promotion efficiency: The case of China. Journal of Cleaner Production, 362, 132299.
+
+
+
+  
+
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
