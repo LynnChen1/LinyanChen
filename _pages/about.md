@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Dr. Linyan Chen"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,16 +9,18 @@ redirect_from:
 About Me
 ===
 
-I am a Postdoctoral Research Fellow in the Department of Building and Real Estates, The Hong Kong Polytechnic University, under the supervision of [Prof. Albert Chan](https://www.polyu.edu.hk/bre/people/academic-staff/ir-prof-albert-pc-chan/). I obtained two Ph.D. degree from The Hong Kong Polytechnic University and Tongji University in 2024, advised by Prof. Albert Chan (PolyU) and Prof. Xin Gao (Tongji). Prior to that, I received the M.S. and the B.S. degrees from Zhengzhou University of Aeronautics. 
+I am a Postdoctoral Research Fellow in the Department of Building and Real Estates, The Hong Kong Polytechnic University, under the supervision of [Prof. Albert Chan](https://www.polyu.edu.hk/bre/people/academic-staff/ir-prof-albert-pc-chan/). I obtained two Ph.D. degree from The Hong Kong Polytechnic University and Tongji University in 2024, advised by Prof. Albert Chan (PolyU) and Prof. Xin Gao (Tongji). Prior to that, I received the M.S. and the B.S. degrees from Zhengzhou University of Aeronautics. **Here is my CV.**
 
 Research Interest
 ===
 My recent research focuses on building energy retrofitting and green buildings, providing solutions to sustainable built environment. 
 
 
-Main Publications
+Publications
 ======
 
+Journal
+---
 * [Challenges to energy retrofitting of existing office buildings in high-rise high-density cities: The case of Hong Kong](https://www.sciencedirect.com/science/article/pii/S0378778824003360?casa_token=qJRsIigIVKwAAAAA:JBUcjH6mP8jfF4rITKN_fn-xUzuSSc31BED7nRW8cgq20WxQXB0ugCnq5a1AGMeoaMQyRk5DAA)
 
   **Linyan Chen**, Amos Darko, Mayowa I. Adegoriola, Albert P.C. Chan, Yang Yang, & Mershack O. Tetteh
@@ -48,6 +50,16 @@ Main Publications
   **Linyan Chen**, Xin Gao, Shitao Gong, Zhou Li
   
   *Sustainability*, 2020, 12(15), 5988.
+
+Conference 
+---
+
+
+Book Chapter
+---
+
+
+
 
 Project
 ===
