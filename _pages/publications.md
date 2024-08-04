@@ -13,9 +13,8 @@ author_profile: true
 * **Chen, L.**, Gao, X., Gong, S., & Li, Z. (2020). Regionalization of green building development in China: A comprehensive evaluation model based on the catastrophe progression method. *Sustainability*, 12(15), 5988.
 
 ## Conference
-* **Chen, L.**, Chan, A. P., Yang, Q., Darko, A., & Gao, X. (2022, November). Forecasting Green Building Growth in Different Regions of China. In *IOP Conference Series: Earth and Environmental Science* (Vol. 1101, No. 2, p. 022042). IOP Publishing.
 * **Chen, L.**, Darko, A., Adegoriola, M. I., Chan, A. P., Yang, Y., & Tetteh, M. O. (2023, November). Review of Challenges to Energy Efficiency Retrofitting of Existing Building Stock. In *46th Australasian Universities Building Education Association (AUBEA) 2023 Conference*, Auckland, New Zealand. 
-
+* **Chen, L.**, Chan, A. P., Yang, Q., Darko, A., & Gao, X. (2022, November). Forecasting Green Building Growth in Different Regions of China. In *IOP Conference Series: Earth and Environmental Science* (Vol. 1101, No. 2, p. 022042). IOP Publishing.
 
 ## Book Chapter
 
