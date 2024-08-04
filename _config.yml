@@ -24,19 +24,19 @@ author:
   avatar           : "profile.png"
   name             : "Dr. Linyan Chen"
   pronouns         : # example: "she/her"  
-#  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "Hong Kong"
   employer         : "The Hong Kong Polytechnic University"
-#  uri              : # URL
+  uri              : # URL
   email            : "linyan1.chen@polyu.edu.hk" 
 
   # Academic websites
-#  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=LFLyatwAAAAJ&view_op=list_works&sortby=pubdate"
-#  impactstory      : # URL
-#  orcid            : "http://orcid.org/yourorcidurl"
-#  semantic         : # URL
-#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  impactstory      : # URL
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-3843-2664"
+  semantic         : # URL
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Linyan-Chen-3"
 
   # Repositories and software development
