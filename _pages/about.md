@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. Linyan Chen"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
