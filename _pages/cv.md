@@ -11,35 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Construction Management, The Hong Kong Polytechnic University, 2023
+* Ph.D in Management Science and Engineering, Tongji University, 2023
+* M.S. in Management Science and Engineering, Zhengzhou University of Aeronautics, 2017
+* B.S. in Construction Management, Zhengzhou University of Aeronautics, 2013
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2024-April 2024, Research Assistant
+  * The Hong Kong Polytechnic University
+  * Supervisor: Dr. Amos Darko
+    
+* April 2024-Now, Postdoctoral fellow
+  * The Hong Kong Polytechnic University
+  * Supervisor: Prof. Albert P.C. Chan and Dr. Amos Darko
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
@@ -59,6 +46,15 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
