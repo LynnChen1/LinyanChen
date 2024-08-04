@@ -45,3 +45,21 @@ Main Publications
   
   *Sustainability*, 2020, 12(15), 5988.
 
+Project
+===
+* Energy Efficiency Retrofitting of Existing Office Buildings for Carbon Neutrality in Hong Kong: Policy Recommendations and Guidelines for Overcoming the Challenges
+
+  **Public Policy Research Funding Scheme of Hong Kong government**, Grant number: 2022.A6.207.22C
+  
+* Urban resilience assessment and resilience improvement strategies from the perspective of cascading disasters
+
+  **National Natural Science Foundation of China**, Grant number: 72174146
+
+Teaching Experience
+===
+* Working as a helper in the course of Construction Economics
+* Working as a helper in the course of Analytical Skills and Methods
+
+
+
+
