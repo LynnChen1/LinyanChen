@@ -16,7 +16,7 @@ Research Interest
 My recent research focuses on building energy retrofitting and green buildings, providing solutions to sustainable built environment. 
 
 
-Main Publications
+Selected Publications
 ======
 
 * [Challenges to energy retrofitting of existing office buildings in high-rise high-density cities: The case of Hong Kong](https://www.sciencedirect.com/science/article/pii/S0378778824003360?casa_token=qJRsIigIVKwAAAAA:JBUcjH6mP8jfF4rITKN_fn-xUzuSSc31BED7nRW8cgq20WxQXB0ugCnq5a1AGMeoaMQyRk5DAA)
