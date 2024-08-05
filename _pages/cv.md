@@ -20,7 +20,7 @@ Work experience
 ======
 * April 2024-Now, Postdoctoral fellow
   * The Hong Kong Polytechnic University
-  * Supervisor: Prof. Albert P.C. Chan and Dr. Amos Darko
+  * Supervisors: Prof. Albert P.C. Chan and Dr. Amos Darko
   
 * Jan 2024-April 2024, Research Assistant
   * The Hong Kong Polytechnic University
@@ -29,15 +29,23 @@ Work experience
 
 Publications
 ======
+* **Chen, L.**, Darko, A., Adegoriola, M. I., Chan, A. P., Yang, Y., & Tetteh, M. O. (2024). Challenges to energy retrofitting of existing office buildings in high-rise high-density cities: The case of Hong Kong. *Energy and Buildings*, 312, 114220.
+* **Chen, L.**, Chan, A. P., Darko, A., & Gao, X. (2022). Spatial-temporal investigation of green building promotion efficiency: The case of China. *Journal of Cleaner Production*, 362, 132299.
+* **Chen, L.**, Chan, A. P., Owusu, E. K., Darko, A., & Gao, X. (2022). Critical success factors for green building promotion: A systematic review and meta-analysis. *Building and Environment*, 207, 108452.
+* **Chen, L.**, Gao, X., Hua, C., Gong, S., & Yue, A. (2021). Evolutionary process of promoting green building technologies adoption in China: A perspective of government. *Journal of Cleaner Production*, 279, 123607.
+* **Chen, L.**, Gao, X., Gong, S., & Li, Z. (2020). Regionalization of green building development in China: A comprehensive evaluation model based on the catastrophe progression method. *Sustainability*, 12(15), 5988.
+* Hua, C., **Chen, L.**, Liu, C., & Yang, C. (2024). The effect of incentive policies on the diffusion of construction and demolition waste recycling: A government perspective. *Waste Management & Research*, 0734242X241231400.
+*  Hua, C., **Chen, L.**, Liu, C., Chen, J., & Yang, C. (2023). Technology adoption path of construction and demolition waste recycling under governmental subsidy: a theoretical model. *Environmental Science and Pollution Research*, 30(25), 67880-67890.
 
 
+Project
+=====
+* Urban resilience assessment and resilience improvement strategies from the perspective of cascading disasters, National Natural Science Foundation of China (Grant number: 72174146)
 
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Energy Efficiency Retrofitting of Existing Office Buildings for Carbon Neutrality in Hong Kong: Policy Recommendations and Guidelines for Overcoming the Challenges, Public Policy Research Funding Scheme of Hong
+Kong government (Grant number: 2022.A6.207.22C)
+
+
   
 Teaching
 ======
