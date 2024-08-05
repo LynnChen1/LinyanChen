@@ -55,12 +55,9 @@ Teaching
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language: English (Fluent, IELTS 7/9), Mandarin(native)
+* Coding: Python
+
 
 
 Service
