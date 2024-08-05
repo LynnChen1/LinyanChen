@@ -11,6 +11,8 @@ author_profile: true
 * **Chen, L.**, Chan, A. P., Owusu, E. K., Darko, A., & Gao, X. (2022). Critical success factors for green building promotion: A systematic review and meta-analysis. *Building and Environment*, 207, 108452.
 * **Chen, L.**, Gao, X., Hua, C., Gong, S., & Yue, A. (2021). Evolutionary process of promoting green building technologies adoption in China: A perspective of government. *Journal of Cleaner Production*, 279, 123607.
 * **Chen, L.**, Gao, X., Gong, S., & Li, Z. (2020). Regionalization of green building development in China: A comprehensive evaluation model based on the catastrophe progression method. *Sustainability*, 12(15), 5988.
+*  Hua, C., **Chen, L.**, Liu, C., & Yang, C. (2024). The effect of incentive policies on the diffusion of construction and demolition waste recycling: A government perspective. *Waste Management & Research*, 0734242X241231400.
+*  Hua, C., **Chen, L.**, Liu, C., Chen, J., & Yang, C. (2023). Technology adoption path of construction and demolition waste recycling under governmental subsidy: a theoretical model. *Environmental Science and Pollution Research*, 30(25), 67880-67890.
 
 ## Conference
 * **Chen, L.**, Darko, A., Adegoriola, M. I., Chan, A. P., Yang, Y., & Tetteh, M. O. (2023, November). Review of Challenges to Energy Efficiency Retrofitting of Existing Building Stock. In *46th Australasian Universities Building Education Association (AUBEA) 2023 Conference*, Auckland, New Zealand. 
@@ -23,8 +25,6 @@ author_profile: true
 
 ## Other
 * Zhang, F., Chan, A. P., **Chen, L.**, Li, D., & Cui, P. (2024). Exploring and measuring the health resilience of urban buildings against the pandemic: A case study of Hong Kong public housing during COVID-19. *International Journal of Disaster Risk Reduction*, 103, 104343.
-* Hua, C., **Chen, L.**, Liu, C., & Yang, C. (2024). The effect of incentive policies on the diffusion of construction and demolition waste recycling: A government perspective. *Waste Management & Research*, 0734242X241231400.
-*  Hua, C., **Chen, L.**, Liu, C., Chen, J., & Yang, C. (2023). Technology adoption path of construction and demolition waste recycling under governmental subsidy: a theoretical model. *Environmental Science and Pollution Research*, 30(25), 67880-67890.
 *  Gao, X., Ye, Y., Su, W., & **Chen, L.** (2023). Assessing the comprehensive importance of power grid nodes based on DEA. *International Journal of Critical Infrastructure Protection*, 42, 100614.
 *  Gong, S., Ye, Y., Gao, X., **Chen, L.**, & Wang, T. (2023). Empirical patterns of interdependencies among critical infrastructures in cascading disasters: Evidence from a comprehensive multi-case analysis. *International journal of disaster risk reduction*, 95, 103862.
 * Wang, T., **Chen, L.**, Gao, X., & Gong, S. (2023). Exploring Cross-Section Risk Governance Mechanisms for Transportation and Energy Infrastructures in China. *Buildings*, 13(9), 2243.
