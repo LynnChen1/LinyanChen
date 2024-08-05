@@ -49,13 +49,6 @@ Main Publications
   
   *Sustainability*, 2020, 12(15), 5988.
 
-Conference 
----
-
-
-Book Chapter
----
-
 
 
 
