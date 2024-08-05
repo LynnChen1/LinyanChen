@@ -33,7 +33,7 @@ author_profile: true
 * Hua, C., Liu, C., Chen, J., Yang, C., & **Chen, L**. (2022). Promoting construction and demolition waste recycling by using incentive policies in China. Environmental Science and Pollution Research, 29(35), 53844-53859.
 * Gong, S., Gao, X., Li, Z., & **Chen, L.** (2021). Developing a dynamic supervision mechanism to improve construction safety investment supervision efficiency in China: theoretical simulation of evolutionary game process. *International Journal of Environmental Research and Public Health*, 18(7), 3594.
 * Pi, Z., Gao, X., **Chen, L.**, & Liu, J. (2019). The new path to improve construction safety performance in China: An evolutionary game theoretic approach. *International Journal of Environmental Research and Public Health*, 16(13), 2443.
-* Adegoriola, M. I., Darko, A., **Chen, L.**, Chan, A. P., Yang, Y., & Tetteh, M. O. (2023, November). Existing building energy efficiency retrofit policies: Review and recommendations for Hong Kong In *46th Australasian Universities Building Education Association (AUBEA) 2023 Conference*, Auckland, New Zealand.
+* Adegoriola, M. I., Darko, A., **Chen, L.**, Chan, A. P., Yang, Y., & Tetteh, M. O. (2023, November). Existing building energy efficiency retrofit policies: Review and recommendations for Hong Kong. In *46th Australasian Universities Building Education Association (AUBEA) 2023 Conference*, Auckland, New Zealand.
 * Owusu, E. K., Chan, A. P., **Chen, L.**, & Amoah, P. (2022, March). Digitization, digitalization, and digital transformation (3Ds): explicating the disparities and applications of the 3Ds in the construction industry. In *Construction Research Congress 2022* (pp. 161-170).
 
 
