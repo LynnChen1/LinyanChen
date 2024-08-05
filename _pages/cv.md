@@ -49,10 +49,10 @@ Kong government (Grant number: 2022.A6.207.22C)
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Working as a helper in the course of Construction Economics
+* Working as a helper in the course of Analytical Skills and Methods
+
+
 Skills
 ======
 * Skill 1
@@ -62,6 +62,4 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
