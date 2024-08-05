@@ -9,11 +9,13 @@ redirect_from:
 About Me
 ===
 
-I am a Postdoctoral Research Fellow in the Department of Building and Real Estates, The Hong Kong Polytechnic University, under the supervision of [Prof. Albert Chan](https://www.polyu.edu.hk/bre/people/academic-staff/ir-prof-albert-pc-chan/). I obtained two Ph.D. degree from The Hong Kong Polytechnic University and Tongji University in 2024, advised by Prof. Albert Chan (PolyU) and Prof. Xin Gao (Tongji). Prior to that, I received the M.S. and the B.S. degrees from Zhengzhou University of Aeronautics. **Here is my CV.**
+I am a Postdoctoral Research Fellow in the Department of Building and Real Estates, The Hong Kong Polytechnic University, under the supervision of [Prof. Albert Chan](https://www.polyu.edu.hk/bre/people/academic-staff/ir-prof-albert-pc-chan/). I obtained two Ph.D. degrees from The Hong Kong Polytechnic University and Tongji University in 2024, advised by Prof. Albert Chan (PolyU) and Prof. Xin Gao (Tongji). Prior to that, I received an M.S. and a B.S. degree from Zhengzhou University of Aeronautics. 
 
 Research Interest
 ===
-My recent research focuses on building energy retrofitting and green buildings, providing solutions to sustainable built environment. 
+* **Building energy retrofitting.** My recent research focuses on building energy retrofitting, providing solutions to sustainable built environment. Currently, I am working on applying cutting-edge AI technologies in building energy retrofitting. 
+* Green buildings. My PhD study mainly focuses on investigating strategies to implement green building practices in mainland China. 
+* Construction and demolition waste management. This topic is a collaborative work, using game theory to optimize decisions in construction and demolition waste management. 
 
 
 Selected Publications
