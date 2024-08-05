@@ -18,21 +18,20 @@ Education
 
 Work experience
 ======
-* Jan 2024-April 2024, Research Assistant
-  * The Hong Kong Polytechnic University
-  * Supervisor: Dr. Amos Darko
-    
 * April 2024-Now, Postdoctoral fellow
   * The Hong Kong Polytechnic University
   * Supervisor: Prof. Albert P.C. Chan and Dr. Amos Darko
   
-
+* Jan 2024-April 2024, Research Assistant
+  * The Hong Kong Polytechnic University
+  * Supervisor: Dr. Amos Darko
+    
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+
+
   
 Talks
 ======
