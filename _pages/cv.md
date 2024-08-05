@@ -27,7 +27,7 @@ Work experience
   * Supervisor: Dr. Amos Darko
     
 
-Publications
+Selected Publications
 ======
 * **Chen, L.**, Darko, A., Adegoriola, M. I., Chan, A. P., Yang, Y., & Tetteh, M. O. (2024). Challenges to energy retrofitting of existing office buildings in high-rise high-density cities: The case of Hong Kong. *Energy and Buildings*, 312, 114220.
 * **Chen, L.**, Chan, A. P., Darko, A., & Gao, X. (2022). Spatial-temporal investigation of green building promotion efficiency: The case of China. *Journal of Cleaner Production*, 362, 132299.
