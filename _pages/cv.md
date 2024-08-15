@@ -55,7 +55,7 @@ Teaching
 
 Skills
 ======
-* Language: English (Fluent, IELTS 7/9), Mandarin(native)
+* Language: English (Fluent, IELTS 7/9), Mandarin (native)
 * Coding: Python
 
 
