@@ -66,7 +66,7 @@ Project
 
 Teaching Experience
 ===
-* Assited in the course of Construction Economics.
+* Assisted in the course of Construction Economics.
 * Assisted in the course of Analytical Skills and Methods.
 * Assisted in the course of Introduction to Construction Management. 
 
