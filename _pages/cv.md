@@ -40,17 +40,17 @@ Selected Publications
 
 Project
 =====
-* Urban resilience assessment and resilience improvement strategies from the perspective of cascading disasters, National Natural Science Foundation of China (Grant number: 72174146)
-
 * Energy Efficiency Retrofitting of Existing Office Buildings for Carbon Neutrality in Hong Kong: Policy Recommendations and Guidelines for Overcoming the Challenges, Public Policy Research Funding Scheme of Hong
 Kong government (Grant number: 2022.A6.207.22C)
+* Urban resilience assessment and resilience improvement strategies from the perspective of cascading disasters, National Natural Science Foundation of China (Grant number: 72174146)
 
 
   
 Teaching
 ======
-* Working as a helper in the course of Construction Economics
-* Working as a helper in the course of Analytical Skills and Methods
+* Assisted in the course of Construction Economics
+* Assisted in the course of Analytical Skills and Methods
+* Assisted in the course of Introduction to Construction Management
 
 
 Skills
