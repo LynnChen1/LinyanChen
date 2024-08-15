@@ -9,7 +9,7 @@ redirect_from:
 About Me
 ===
 
-I am a Postdoctoral Research Fellow in the Department of Building and Real Estates, The Hong Kong Polytechnic University, under the supervision of [Prof. Albert Chan](https://www.polyu.edu.hk/bre/people/academic-staff/ir-prof-albert-pc-chan/). I obtained two Ph.D. degrees from The Hong Kong Polytechnic University and Tongji University in 2023, advised by Prof. Albert Chan (PolyU) and Prof. Xin Gao (Tongji). Prior to that, I received an M.S. and a B.S. degree from Zhengzhou University of Aeronautics. 
+I am a Postdoctoral Research Fellow in the Department of Building and Real Estates, The Hong Kong Polytechnic University, under the supervision of [Prof. Albert Chan](https://www.polyu.edu.hk/bre/people/academic-staff/ir-prof-albert-pc-chan/). I obtained Ph.D. degrees from The Hong Kong Polytechnic University and Tongji University in 2023, advised by Prof. Albert Chan (PolyU) and Prof. Xin Gao (Tongji). Prior to that, I received an M.S. and a B.S. degree from Zhengzhou University of Aeronautics. 
 
 Research Interest
 ===
@@ -66,8 +66,9 @@ Project
 
 Teaching Experience
 ===
-* Working as a helper in the course of Construction Economics
-* Working as a helper in the course of Analytical Skills and Methods
+* Assited in the course of Construction Economics.
+* Assisted in the course of Analytical Skills and Methods.
+* Assisted in the course of Introduction to Construction Management. 
 
 
 
